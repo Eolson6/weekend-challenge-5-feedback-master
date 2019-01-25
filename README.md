@@ -6,10 +6,10 @@
 
 
  For this assignment, you will be creating a feedback form modeled after Prime's system. Feedback will be collected over 4 views, and when all steps are complete, your app will save the feedback in the database. In a separate part of the page, display the current feedback values and a submit button. 
-
+![alt text]"relative path" 
 ### SETUP
 
-Create your database and tables using the provided `data.sql` file. Start the server.
+[ ]Create your database and tables using the provided `data.sql` file. Start the server.
 
 ```
 npm install
